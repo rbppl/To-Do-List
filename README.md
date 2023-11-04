@@ -14,3 +14,4 @@ Examples of unit tests for TaskDao, TaskRepository, and TaskViewModel.
 Clone the repository to your computer.
 Open the project in Android Studio.
 Run the project on your Android device or emulator.
+![Текст альтернативы](readme.gif)
